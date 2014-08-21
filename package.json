@@ -1,0 +1,12 @@
+{
+  "name": "indie-search",
+  "version": "0.0.1",
+  "description": "Node.js Framework for constructing IndieWeb-compatible apps and websites",
+  "author": "Michael Owens <mk@mowens.com> (http://mowens.com/)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Indie-js/indie-search.git"
+  },
+  "main": "./lib/indie-search",
+  "keywords": ["indieweb", "indie", "indieprofile", "indieauth", "framework", "identity"]
+}
